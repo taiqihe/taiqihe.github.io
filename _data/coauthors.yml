@@ -1,18 +1,19 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Luck":
+  - firstname: ["Steve", "Steven J.", "S. J."]
+    url: https://lucklab.ucdavis.edu/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Sagae":
+  - firstname: ["K.", "Kenji"]
+    url: http://compling.ucdavis.edu/sagae/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Yu":
+  - firstname: ["Dian", "D."]
+    url: https://diandyu.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Kiat": 
+  - firstname: ["John", "J. E.", "John E."]
+    url: https://www.johnkiat.com/me/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Boudewyn": 
+  - firstname: ["Megan", "M. A.", "Megan A."]
+    url: https://sites.google.com/ucsc.edu/boudewynlab

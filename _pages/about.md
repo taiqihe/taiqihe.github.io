@@ -2,23 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Graduate student @ <a href="https://lti.cs.cmu.edu/" target="_blank" rel="noopener noreferrer">CMU</a>
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a masters student at [Language Technologies Institute](https://lti.cs.cmu.edu/), advised by Lori Levin. Previously I worked with [Randy O'Reilly](https://ccnlab.org/). I got my bachelor's degree from UC Davis, with theses advised by [Steve Luck](https://lucklab.ucdavis.edu/) and [Kenji Sagae](http://compling.ucdavis.edu/sagae/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are in linguistics, NLP, and computational neuroscience.
