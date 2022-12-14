@@ -160,9 +160,10 @@ exclude:
   - Gemfile.lock
   - vendor
   - blog
-  - cv
-  - repositories
-  - teaching
+  - projects
+  - '_pages/cv'
+  - '_pages/repositories'
+  - '_pages/teaching'
 keep_files:
   - CNAME
   - .nojekyll
