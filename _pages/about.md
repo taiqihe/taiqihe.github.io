@@ -6,6 +6,7 @@ subtitle: Graduate student @ <a href="https://lti.cs.cmu.edu/" target="_blank" r
 
 
 news: false  # includes a list of news items
+latest_posts: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
