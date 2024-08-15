@@ -1,6 +1,56 @@
 ---
 ---
 
+@inproceedings{zhang-etal-2024-hire,
+    title = "Hire a Linguist!: Learning Endangered Languages in {LLM}s with In-Context Linguistic Descriptions",
+    author = "Zhang, Kexun  and
+      Choi, Yee  and
+      Song, Zhenqiao  and
+      He, Taiqi  and
+      Wang, William Yang  and
+      Li, Lei",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2024.findings-acl.925",
+    pages = "15654--15669",
+    abstract = "How can large language models (LLMs) process and translate endangered languages? Many languages lack a large corpus to train a decent LLM; therefore existing LLMs rarely perform well in unseen, endangered languages. On the contrary, we observe that 2000 endangered languages, though without a large corpus, have a grammar book or a dictionary. We propose LingoLLM, a training-free approach to enable an LLM to process unseen languages that hardly occur in its pre-training. Our key insight is to demonstrate linguistic knowledge of an unseen language in an LLM{'}s prompt, including a dictionary, a grammar book, and morphologically analyzed input text. We implement LingoLLM on top of two models, GPT-4 and Mixtral, and evaluate their performance on 5 tasks across 8 endangered or low-resource languages. Our results show that LingoLLM elevates translation capability from GPT-4{'}s 0 to 10.5 BLEU for 10 language directions. Our findings demonstrate the tremendous value of linguistic knowledge in the age of LLMs for endangered languages. Our data, code, and model generations will be released to the public. Our data, code, and model generations can be found at \url{https://github.com/LLiLab/llm4endangeredlang}.",
+    abbr = {ACL},
+}
+
+
+@inproceedings{he-etal-2024-wav2gloss,
+    title = "{W}av2{G}loss: Generating Interlinear Glossed Text from Speech",
+    author = "He, Taiqi  and
+      Choi, Kwanghee  and
+      Tjuatja, Lindia  and
+      Robinson, Nathaniel  and
+      Shi, Jiatong  and
+      Watanabe, Shinji  and
+      Neubig, Graham  and
+      Mortensen, David  and
+      Levin, Lori",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2024.acl-long.34",
+    pages = "568--582",
+    abstract = "Thousands of the world{'}s languages are in danger of extinction{---}a tremendous threat to cultural identities and human language diversity. Interlinear Glossed Text (IGT) is a form of linguistic annotation that can support documentation and resource creation for these languages{'} communities. IGT typically consists of (1) transcriptions, (2) morphological segmentation, (3) glosses, and (4) free translations to a majority language. We propose Wav2Gloss: a task in which these four annotation components are extracted automatically from speech, and introduce the first dataset to this end, Fieldwork: a corpus of speech with all these annotations, derived from the work of field linguists, covering 37 languages, with standard formatting, and train/dev/test splits. We provide various baselines to lay the groundwork for future research on IGT generation from speech, such as end-to-end versus cascaded, monolingual versus multilingual, and single-task versus multi-task approaches.",
+    selected = true,
+    abbr = {ACL},
+}
+
+
 @inproceedings{mortensen-etal-2023-generalized,
     title = "Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation",
     author = "Mortensen, David R.  and
