@@ -201,6 +201,7 @@ exclude:
   - blog
   - projects
   - "_pages/cv"
+  - "_pages/projects"
   - "_pages/repositories"
   - "_pages/teaching"
   - "_pages/profiles"
